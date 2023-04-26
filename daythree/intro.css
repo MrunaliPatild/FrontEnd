@@ -1,0 +1,15 @@
+body{
+    background-origin: padding-box;
+    border: solid 2px black; 
+    text-align:justify;
+    font-size: 20px;
+    color: hsl(15, 13%, 6%);
+
+}
+h1{
+    color: rgb(0, 102, 255);
+}
+#h6:hover{
+    color:rgb(0, 119, 255);
+    background-color:coral;
+}
